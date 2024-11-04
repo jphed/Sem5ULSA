@@ -1,0 +1,29 @@
+Películas
+
+    "Roma" (2018) - Explora la vida en México en los años 70 y los roles de clase y género.
+
+    "Parasite" (2019) - Una crítica mordaz sobre las desigualdades sociales en Corea del Sur.
+
+    "12 Years a Slave" (2013) - Muestra la brutalidad de la esclavitud en Estados Unidos, destacando la lucha por la libertad.
+
+    "Coco" (2017) - Celebra la cultura mexicana y la importancia de la familia y las tradiciones.
+
+Pinturas
+
+    "Las Meninas" de Diego Velázquez (1656) - Refleja la vida en la corte española del siglo XVII, con temas de perspectiva y realidad.
+
+    "El Grito" de Edvard Munch (1893) - Representa la angustia y el existencialismo, resonando con las luchas humanas contemporáneas.
+
+Música
+
+    "To Pimp a Butterfly" de Kendrick Lamar (2015) - Aborda la identidad afroamericana y la lucha social.
+
+    "The Miseducation of Lauryn Hill" de Lauryn Hill (1998) - Fusiona temas de empoderamiento femenino y cultura afroamericana.
+
+Literatura
+
+    "Cien años de soledad" de Gabriel García Márquez (1967) - Una exploración del realismo mágico que refleja la historia y la cultura latinoamericana.
+
+Teatro
+
+    "Hamilton" de Lin-Manuel Miranda (2015) - Un musical que reinterpreta la historia de Estados Unidos a través de una perspectiva contemporánea, fusionando hip-hop y teatro.
